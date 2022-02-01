@@ -1,0 +1,111 @@
+@charset "UTF-8";
+
+h1 {
+	background-color: orange;
+	color: white;
+	padding: 0.5em;
+	text-align: center;
+}
+
+.primera-lista li {
+	display: inline;
+	border: 1px blue solid;
+	padding: 0.2em;
+	margin-left: 0.1em;
+	position: relative;
+	top: -12px;
+}
+
+.section1 {
+	background-color:cyan;
+	padding: 0.1em;
+	position: relative;
+	top: -25px;
+}
+
+.imagen1 {
+	width: 140px;
+	height: 220px;
+	float: left;
+	position: relative;
+	top: -0.9em;
+}
+
+.section2 {
+	border-top: 0.9em blue solid;
+	border-bottom: 0.9em blue solid;
+}
+
+.parrafo1 {
+	font-family: 'Sriracha', cursive;
+}
+
+.seciton3 {
+	margin-top: 40px;
+	background-color: cyan;
+	padding-top: 1em;
+	padding-bottom: 2em;
+}
+
+.parrafo2 {
+	border-top: 0.9em red solid;
+	border-bottom: 0.9em red solid;
+	color: red;
+}
+
+.section4 {
+	background-color: orange;
+	padding: 0.5em;
+	position: relative;
+	top: 1px;
+}
+
+.section5 {
+	background-color: orange;
+	padding: 2em;
+	position: relative;
+	top: 5px;
+}
+
+.segunda-seccion-imagen {
+	float: right;
+	width: 100px;
+	height: 100px;
+	
+}
+.primera li{
+	list-style-type:katakana-iroha;
+}
+
+.primera {
+	background-color: orange;
+	padding: 6em;
+	position: relative;
+	top: -25px;
+}
+
+.primera ul {
+	background-color: white;
+	position: relative;
+	right: 5%;
+}
+
+.segunda {
+	background-color: orange;
+	padding: 0.5em;
+	position: relative;
+	top: -25px;
+}
+
+.tercera {
+	background-color: orange;
+	padding: 2em;
+	position: relative;
+	top: -24px;
+}
+.section6{
+	background-color: orange;
+	padding: 0,5em ;
+	position: relative;
+	top: 60px;
+}
